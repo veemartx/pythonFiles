@@ -1,1 +1,1 @@
-This is a learning project for reading and writing into file using the python programming language
+This is a learning project for reading and writing files using the python programming language
